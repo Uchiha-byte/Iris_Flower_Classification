@@ -57,7 +57,7 @@ To run this project, you need:
 
 1. Clone this repository:
 ```bash
-git clone [repository-url]
+git clone [https://github.com/Uchiha-byte/Iris_Flower_Classification.git]
 ```
 
 2. Install the required packages:
